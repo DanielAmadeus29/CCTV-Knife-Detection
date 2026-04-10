@@ -19,7 +19,7 @@ The dataset used in this project is a **combined dataset from Simuletic and Robo
 
 ## Model Performance
 
-Best result achieved at **epoch 20**:
+Best result achieved:
 
 - **mAP50:** 0.9592
 - **mAP50-95:** 0.6355
