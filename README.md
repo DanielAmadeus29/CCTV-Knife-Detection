@@ -27,7 +27,7 @@ Best result achieved at **epoch 20**:
 - **Recall:** 0.9019
 
 ## Real Test
-Test videos were evaluated using **raw public-source videos** collected from platforms such as:
+Test videos/images were evaluated using **raw public-source videos** collected from platforms such as:
 - Twitter / X
 - Reddit
 - Other public online sources
